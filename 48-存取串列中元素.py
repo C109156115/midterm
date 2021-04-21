@@ -1,0 +1,1 @@
+print(list(reversed(input("請請輸入一行英文句子：\n'").strip().replace(".","").split(" "))))
